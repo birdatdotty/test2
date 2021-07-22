@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>UserDelegate.qml</file>
+        <file>AddPeople.qml</file>
+        <file>SelectDay.qml</file>
+        <file>ShowPeoples.qml</file>
+        <file>Home.qml</file>
+        <file>Months.qml</file>
+        <file>Header.qml</file>
+        <file>DrawerColumn.qml</file>
+        <file>ComboBoxDelegateDay.qml</file>
+        <file>ComboBoxDelegateYear.qml</file>
+        <file>ComboBoxDelegateMonth.qml</file>
+        <file>SelectDay2.qml</file>
+        <file>Config.qml</file>
+        <file>SavePeoples.qml</file>
+    </qresource>
+</RCC>
